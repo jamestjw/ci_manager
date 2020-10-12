@@ -13,4 +13,5 @@ shellexpand = "2.0.0"
 reqwest = { version = "0.10.8", features = ["json"] } 
 futures = "0.3"
 tokio = { version = "0.2", features = ["full"] }
+regex = "1"
 
